@@ -1,29 +1,39 @@
 {
   "basics": {
     "name": "Jamie Gray",
-    "label": "Product Designer / UI / UX",
+    "label": "UX Designer",
     "picture": "",
     "email": "jamiegray2234@gmail.com",
     "phone": "(817) 368-0224",
     "website": "http://jamiegray.net",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "User Experience Designer seeking opportunities to connect with and work alongside skilled designers and developers. Looking for entry-level and internship design roles at tech companies or startups.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "test",
+      "address": "505 Leta Lane",
+      "postalCode": "76034",
+      "city": "Colleyville",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "username": "@jamiefeedback",
+        "url": "https://twitter.com/jamiefeedback"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "Angel List",
+        "username": "",
+        "url": "https://angel.co/jamie-gray-1"
+      }
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/jamiegray2234/"
+      }
+      {
+        "network": "Github",
+        "username": "",
+        "url": "https://github.com/sirjamesgray"
       }
     ]
   },
