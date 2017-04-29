@@ -1,43 +1,45 @@
 {
-  "basics": {
-    "name": "Jamie Gray",
-    "label": "UX Designer",
-    "picture": "",
-    "email": "jamiegray2234@gmail.com",
-    "phone": "(817) 368-0224",
-    "website": "http://jamiegray.net",
-    "summary": "User Experience Designer seeking opportunities to connect with and work alongside skilled designers and developers. Looking for entry-level and internship design roles at tech companies or startups.",
-    "location": {
-      "address": "505 Leta Lane",
-      "postalCode": "76034",
-      "city": "Colleyville",
-      "countryCode": "US",
-      "region": "Texas"
-    },
-    "profiles": [
+    "basics":{
+      "name": "Jamie Gray",
+      "label": "UX Designer",
+      "picture": "",
+      "email": "jamiegray2234@gmail.com",
+      "phone": "(817) 368-0224",
+      "website": "http://jamiegray.net",
+      "summary": "User Experience Designer seeking opportunities to connect with and work alongside skilled designers and developers. Looking for entry-level and internship design roles at tech companies or startups.",
+      "location": 
       {
+        "address": "505 Leta Lane",
+        "postalCode": "76034",
+        "city": "Colleyville",
+        "countryCode": "US",
+        "region": "Texas"
+      },
+      "profiles":
+      [
+        {
         "network": "Twitter",
         "username": "@jamiefeedback",
         "url": "https://twitter.com/jamiefeedback"
-      },
-      {
+        },
+        {
         "network": "Angel List",
         "username": "",
         "url": "https://angel.co/jamie-gray-1"
-      }
-      {
+        },
+        {
         "network": "LinkedIn",
         "username": "",
         "url": "https://www.linkedin.com/in/jamiegray2234/"
-      }
-      {
+        },
+        {
         "network": "Github",
         "username": "",
         "url": "https://github.com/sirjamesgray"
-      }
-    ]
-  },
-  "work": [
+        }
+      ]
+    },
+    "work": [
     {
       "company": "",
       "position": "UX Designer",
