@@ -53,37 +53,39 @@
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
+      "organization": "",
+      "position": "",
+      "website": "",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "summary": "",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "...",
+        "..."
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
+      "institution": "Udemy",
+      "area": "Data Science and Machine Learning with Python",
+      "studyType": "Online",
+      "startDate": "",
+      "endDate": "2017-01-01",
       "gpa": "4.0",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "Python Introduction / Refresh"
+        "Enthought Canopy Python IDE",
+        "scikit-learn"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "publications": [
@@ -97,43 +99,60 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Product Design",
+      "level": "Experienced",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "User Interface",
+        "Wireframing",
+        "Prototyping",
+        "Sketch"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "User Testing",
+      "level": "Intermediate",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Problem Discovery",
+        "A/B Testing",
+      ]
+    }
+    {
+      "name": "Coding",
+      "level": "Beginner",
+      "keywords": [
+        "Python"
+        "Github"
+        "Atom Editor"
       ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Native"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Environmental Science",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Preservation"
+        "Optimization"
+        "Sustainability"
+      ]
+    }
+    {
+      "name": "Playing Musical Instruments",
+      "keywords": [
+        "Piano",
+        "Guitar"
       ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "",
+      "reference": ""
     }
   ]
 }
